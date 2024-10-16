@@ -1,0 +1,32 @@
+body{
+    font-family:'Times New Roman', Times, serif;
+    background-image: url(https://hips.hearstapps.com/hmg-prod/images/rolls-royce-spectre-lunaflair-lead-66fc5c03267ad.jpg?crop=0.668xw:1.00xh;0.155xw,0&resize=360:*);
+    background-size: cover;
+    color: rgb(65, 243, 199);
+    font-style: italic;
+    font-weight: bolder;
+}
+h1{
+    text-align: center;
+    color: aqua;
+    font-weight: bolder;
+}
+table,th,td {
+    border: 1px solid rgb(9, 216, 235);
+    text-align: center;
+    padding-block: 10px;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+.top{
+    background-color: #070808;
+}
+.companyName{
+    background-color: #10100e;
+    font-size: 1.5rem;
+}
+.Revenue{
+    background-color: #2a2b2a;
+}
